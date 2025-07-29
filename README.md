@@ -15,7 +15,7 @@ An intelligent, cross-platform **Review Aggregator App** built with **Flutter**,
 
 ---
 
-## 📸 Screenshots  
+## 📸 Screenshot  
 
 <img width="400" height="859" alt="image" src="https://github.com/user-attachments/assets/ad606162-2337-41ef-9b54-c8c9ab7a4340" />
 
